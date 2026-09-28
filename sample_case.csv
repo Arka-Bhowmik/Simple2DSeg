@@ -1,0 +1,11 @@
+File_path,Mask_path,Segment
+G:\Simple2DSeg\asset\medical_image_dataset\QIN-Breast-DCE-MRI-BC01\04-24-1996-NA-Breast CE-59716\Axial_MIP.png,G:\Simple2DSeg\asset\medical_image_dataset\QIN-Breast-DCE-MRI-BC01\04-24-1996-NA-Breast CE-59716\Axial_MIP_mask.png,1
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat1.jpg,G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat1_mask.jpg,1
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat2.jpg,G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat2_mask.jpg,1
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat3.jpg,G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat3_mask.jpg,1
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat4.jpg,G:\Simple2DSeg\asset\cats_and_dogs_dataset\cat4_mask.jpg,1
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\dog1.jpg,,
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\dog2.jpg,,
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\dog3.jpg,,
+G:\Simple2DSeg\asset\cats_and_dogs_dataset\dog4.jpg,,
+G:\Simple2DSeg\asset\misc_image_dataset\circle_square.tiff,,
